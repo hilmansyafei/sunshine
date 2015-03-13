@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Hilman Syafei\AndroidStudioProjects\Sunshine_Project\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Hilman Syafei\AndroidStudioProjects\Sunshine_Project\app\build\intermediates\pre-dexed\debug\classes-48a252abe68e0be17389383e5f1406611f2bbe3a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hilman Syafei\AndroidStudioProjects\Sunshine_Project\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Hilman Syafei\AndroidStudioProjects\Sunshine_Project\app\build\intermediates\pre-dexed\debug\classes-343ce88fac09b362396439633e99b1cc9c9df51c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hilman Syafei\AndroidStudioProjects\Sunshine_Project\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Hilman Syafei\AndroidStudioProjects\Sunshine_Project\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-af8d8fa46813ad6e7f53d6918ada491753449acc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Hilman Syafei\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Hilman Syafei\AndroidStudioProjects\Sunshine_Project\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-319e3cb330d2d48bf351f0093d800f520c1fd2ef.jar" />
+    </item>
+
+</items>
